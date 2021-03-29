@@ -1,2 +1,2 @@
-# Yeshwanth_Earle_midterproject
+# Yeshwanth_Earle_midtermproject
 Implementation of Apriori Algorithm
